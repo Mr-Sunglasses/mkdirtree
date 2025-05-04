@@ -1,0 +1,14 @@
+[package]
+name = "mkdirtree"
+version = "0.1.0"
+edition = "2018"
+authors = ["Kanishk Pachauri <itskanishkp.py@gmail.com>"]
+license = "MIT"
+description = "A tool to easily create file and folders with filetrees provided by llms."
+readme = "README.md"
+homepage = "https://github.com/Mr-Sunglasses/mkdirtree"
+repository = "https://github.com/Mr-Sunglasses/mkdirtree"
+keywords = ["directory", "llms", "files"]
+categories = ["command-line-utilities"]
+
+[dependencies]
