@@ -14,6 +14,10 @@ cargo install mkdirtree
 
 - This will install mkdirtree on your computer.
 
+## Demo
+
+<img width="1440" alt="Screenshot 2025-05-04 at 9 29 12 PM" src="https://github.com/user-attachments/assets/68a1413e-3d09-451a-bcad-82ae91e8a571" />
+
 
 
 ## License
